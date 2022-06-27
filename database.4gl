@@ -1,3 +1,5 @@
+DATABASE logix
+
 MAIN
   CALL CONOUT("Hello Test Open DataBase Conection!")
   CALL CONOUT("program called from the main function should open connection with database.")  
